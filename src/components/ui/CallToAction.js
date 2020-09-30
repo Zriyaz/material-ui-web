@@ -75,7 +75,7 @@ const CallToAction = (props) => {
             <Typography variant='h2'>
               Simple Software.
               <br />
-              Revolutionary Resukts
+              Revolutionary Results
             </Typography>
             <Typography style={{ fontSize: '1.5rem' }} variant='subtitle2'>
               Take advantage of 21st Century.
